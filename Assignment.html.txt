@@ -1,0 +1,49 @@
+1.Are the html and elements the same thing?
+> HTML Tags are building blocks of HTML Page
+> HTML Elements are components that are used in HTML Page.
+2.what are tag and attributes in html?
+> An HTML attribute is a piece of markup language used to adjust
+> the behavior or display of an HTML element.
+3.what are void elements in html?
+> an element whose content model never allows
+> it to have contents under any circumstances.
+4.what aare html entities?
+> a piece of text ("string") that begins with an.
+5.what are different types of lists in html?
+> ul,ol,li,dl
+6.what is the 'class' attribute in html?
+> specifies one or more classnames for an element.
+7.what is the difference between the 'id' attribute and the 'class' attribute of html table?
+> Class name can be used by multiple HTML elements,
+> while an ID name must only be used by one html element.
+8.what are the various formatting tags in html?
+> <b>,<strong>,<i>,<em>,<mark>,<small>,<del>,<ins>
+9.how is cell padding different from cell spacing?
+> Cellpadding basically defines the space present between a table Cellspacing basically
+> defines the space present between individual adjacent cells.
+10.how can we club two or more rows or columns into a single row or column in an html tabl?
+> using the colspan attribute in a <td> html tag (table data).
+11.what is the difference between a block-level element and an inline element?
+> Block elements always start from a new line.
+12.how to create a hyperlink in html?
+> Use the <a> element to define a link.
+> Use the href attribute to define the link address.
+13.what is the use of an iframe tag?
+> specifies an inline frame.
+14.what is the use of a spab tag? explain with example?
+> mark up a part of a text, or a part of a document.
+15.how to insert a picture into a background image of a web page?
+> using the background image attribute inside the <body> tag.
+16.how are active links different from normal links?
+> An active link is underlined and red.
+17.what are the different tags to separate sections of text?
+> <br> tag it is usingto separate the link of text.
+18.what is svg?
+>
+19.what is difference between html and xhtml?
+> HTML is the standard markup language for creating web pages,
+> while XHTML is a stricter and more standardized version of HTML.
+20.what are logical and physical tags in html?
+> Physical tags are used to tell the browser 
+how to display the text enclosed in the physical tag. 
+
